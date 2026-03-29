@@ -27,8 +27,8 @@ const CONFIG = {
    *   "*"                   → allow everything (development only!)
    */
   allowedOrigins: [
-    "*.example.com",
-    "*.staging.example.com",
+    "*.enea.tech",
+    "*.3n3a.ch",
     // "https://localhost:3000",   // uncomment for local dev
   ],
 
