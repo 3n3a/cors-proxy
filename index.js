@@ -15,6 +15,7 @@
  *   https://cors-proxy.<your-zone>.workers.dev/?url=https://api.example.com/data
  */
 
+
 // ──────────────────────────── CONFIG ────────────────────────────
 
 const CONFIG = {
